@@ -1,4 +1,5 @@
 # DDL - Create
+CREATE DATABASE store;
 CREATE TABLE countries(
     code INT PRIMARY KEY,
     nname VARCHAR(20) UNIQUE,
